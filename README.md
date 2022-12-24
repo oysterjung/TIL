@@ -9,4 +9,4 @@ Today I Learned..
 
 팀스터디를 위한 공부
 
--추가로 GitHub에 하루에 잔디 하나씩 심기
+- 추가로 GitHub에 하루에 잔디 하나씩 심기
